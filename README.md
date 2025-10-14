@@ -1,3 +1,4 @@
 # QuickSetup
 QuickSetup is a python tool used to quickly install a set of programs and apply certain settings to prepare a new computer for use in a matter of minutes.
 
+slow ahh development
